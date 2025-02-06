@@ -1,0 +1,2229 @@
+[
+  {
+    "acronym": "AEM 2210",
+    "day": "Tue",
+    "date": "Feb 25",
+    "rooms": [
+      "OLH155",
+      "OLH255"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "AEM 2240",
+    "day": "Tue",
+    "date": "Feb 25",
+    "rooms": [
+      "WRN151",
+      "WRN175",
+      "WRNB25"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "AEM 2241",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "WRN175",
+      "WRNB25"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "AEM 2300",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "WRN151",
+      "WRNB25"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "AEM 2420",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "WRN151",
+      "WRN175",
+      "WRNB25"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "AEM 2601",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "WRN151",
+      "WRN175",
+      "WRNB25"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "AEM 3100 001",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "MLT228"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "AEM 3100 002",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "MLT228"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "AEM 3100 003",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "WRN175"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "AEM 3230",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "WRN151",
+      "WRNB25"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "AEM 3370",
+    "day": "Tue",
+    "date": "Feb 25",
+    "rooms": [
+      "SGHB06"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "AEM 4100",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "WRN175"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "AEM 4280",
+    "day": "Tue",
+    "date": "Mar 11",
+    "rooms": [
+      "WRNB25"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "AEM 4521",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "WRN151"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "AEM 4681",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "WRN173"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "AEM 5280",
+    "day": "Tue",
+    "date": "Mar 11",
+    "rooms": [
+      "WRNB25"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "AEM 6681",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "WRN173"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "AEP 2170",
+    "day": "Thu",
+    "date": "Mar 20",
+    "rooms": [
+      "RCK230",
+      "RCK231"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "AEP 3200",
+    "day": "Thu",
+    "date": "Feb 20",
+    "rooms": [
+      "PHS120"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "AEP 4840",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "PHL203"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "AEP 5100",
+    "day": "Thu",
+    "date": "Feb 20",
+    "rooms": [
+      "PHS120"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ASL 1102",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "RRB125"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BEE 4530",
+    "day": "Thu",
+    "date": "Mar 20",
+    "rooms": [
+      "RRB105"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BEE 5530",
+    "day": "Thu",
+    "date": "Mar 20",
+    "rooms": [
+      "RRB105"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BIOAP 4140",
+    "day": "Thu",
+    "date": "Feb 20",
+    "rooms": [
+      "WRN151"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BIOEE 1780",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "KND116"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BIOMG 2800",
+    "day": "Tue",
+    "date": "Feb 25",
+    "rooms": [
+      "MRS146",
+      "MRSB82"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BIOMG 2801",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "OLH155",
+      "OLH165"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BIOMG 3300",
+    "day": "Thu",
+    "date": "Feb 20",
+    "rooms": [
+      "WRNB25"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BIOMG 3350",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "KLRKG70"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BIOMG 6300",
+    "day": "Thu",
+    "date": "Feb 20",
+    "rooms": [
+      "WRNB25"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BIOMG 6350",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "KLRKG70"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BIOMI 2900",
+    "day": "Tue",
+    "date": "Mar 11",
+    "rooms": [
+      "KND116"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BIOMS 4040",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "CVMS1210"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BIOMS 4140",
+    "day": "Thu",
+    "date": "Feb 20",
+    "rooms": [
+      "WRN151"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BIONB 4140",
+    "day": "Thu",
+    "date": "Feb 20",
+    "rooms": [
+      "WRN151"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BME 2010",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "GTSG01"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BME 2110",
+    "day": "Tue",
+    "date": "Mar 11",
+    "rooms": [
+      "WRN175"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BME 3020",
+    "day": "Thu",
+    "date": "Feb 13",
+    "rooms": [
+      "WRN175"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BME 4020",
+    "day": "Thu",
+    "date": "Mar 20",
+    "rooms": [
+      "HLSB14"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BME 6230",
+    "day": "Thu",
+    "date": "Mar 27",
+    "rooms": [
+      "WRN151"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BSOC 2201",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "KND116"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BTRY 3020",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "RCK201"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BTRY 4090",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "MLT251"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BTRY 5020",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "RCK201"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "BTRY 5090",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "MLT251"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CEE 1130",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "PHL101"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CEE 3200",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "OLH255"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CEE 3510",
+    "day": "Thu",
+    "date": "Mar 20",
+    "rooms": [
+      "HLS110"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CEE 3710",
+    "day": "Tue",
+    "date": "Mar 11",
+    "rooms": [
+      "HLS110"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CEE 4740",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "PHL203"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CEE 5710",
+    "day": "Tue",
+    "date": "Mar 25",
+    "rooms": [
+      "HLS110"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CEE 5900",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "HLS110",
+      "HLSB14"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CEE 6590",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "HLS110"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CEE 6910",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "HLS110",
+      "HLSB14"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CHEM 1570",
+    "day": "Thu",
+    "date": "Feb 13",
+    "rooms": [
+      "GSHG64",
+      "GSHG76",
+      "KLRKG70"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CHEM 2070",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "RCK201"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CHEM 2080",
+    "day": "Thu",
+    "date": "Feb 20",
+    "rooms": [
+      "BKL200",
+      "KND116",
+      "RCK201",
+      "RCK203"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CHEM 2090",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "BKL200"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CHEM 2510",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "BKL119",
+      "BKL135",
+      "BKL200",
+      "BKL219"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CHEM 3570",
+    "day": "Thu",
+    "date": "Feb 20",
+    "rooms": [
+      "BKL119",
+      "BKL135"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CHEM 3580",
+    "day": "Thu",
+    "date": "Feb 13",
+    "rooms": [
+      "BKL200",
+      "KND116",
+      "RCK201",
+      "RCK203"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CHEM 3590",
+    "day": "Thu",
+    "date": "Feb 13",
+    "rooms": [
+      "BKL335"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CHEM 3900",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "BKL335"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CHEME 2200",
+    "day": "Tue",
+    "date": "Mar 11",
+    "rooms": [
+      "OLH145",
+      "OLH245"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CHEME 3230",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "OLH255"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CHEME 3320",
+    "day": "Tue",
+    "date": "Mar 11",
+    "rooms": [
+      "OLH165"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CHEME 3720",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "OLH165"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CHEME 3900",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "OLH165"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CHEME 4020",
+    "day": "Thu",
+    "date": "Feb 13",
+    "rooms": [
+      "WRN175"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "COGST 2310",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "GSHG64"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "COGST 4740",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "OLH155",
+      "OLH165"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CS 1110",
+    "day": "Tue",
+    "date": "Mar 11",
+    "rooms": [
+      "GSH132",
+      "GSHG64",
+      "GSHG76",
+      "KLRKG70"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CS 1112",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "RCK201"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CS 1700",
+    "day": "Thu",
+    "date": "Mar 20",
+    "rooms": [
+      "OLH255"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CS 2110",
+    "day": "Tue",
+    "date": "Mar 11",
+    "rooms": [
+      "BKL200",
+      "BKL219",
+      "RCK201",
+      "RCK203"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CS 2800",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "STL185"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CS 3410",
+    "day": "Thu",
+    "date": "Feb 20",
+    "rooms": [
+      "STL185"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CS 3420",
+    "day": "Tue",
+    "date": "Mar 11",
+    "rooms": [
+      "OLH155",
+      "OLH255"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CS 3700",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "GSH132",
+      "GSHG76"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CS 3780",
+    "day": "Tue",
+    "date": "Mar 11",
+    "rooms": [
+      "BLY101"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CS 4410",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "STL185"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CS 4670",
+    "day": "Tue",
+    "date": "Mar 25",
+    "rooms": [
+      "STL185"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CS 4740",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "OLH155",
+      "OLH165"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CS 4782",
+    "day": "Thu",
+    "date": "Mar 27",
+    "rooms": [
+      "BKL200"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CS 4789",
+    "day": "Thu",
+    "date": "Mar 20",
+    "rooms": [
+      "OLH155"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CS 4820",
+    "day": "Thu",
+    "date": "Feb 13",
+    "rooms": [
+      "STL185",
+      "STL196"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CS 5410",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "STL185"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CS 5430",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "OLH255"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CS 5670",
+    "day": "Tue",
+    "date": "Mar 25",
+    "rooms": [
+      "STL185"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CS 5740",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "OLH155",
+      "OLH165"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CS 5782",
+    "day": "Thu",
+    "date": "Mar 27",
+    "rooms": [
+      "BKL200"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CS 5789",
+    "day": "Thu",
+    "date": "Mar 20",
+    "rooms": [
+      "OLH155"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "CS 5820",
+    "day": "Thu",
+    "date": "Feb 13",
+    "rooms": [
+      "STL185",
+      "STL196"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "DEA 2700",
+    "day": "Thu",
+    "date": "Feb 13",
+    "rooms": [
+      "MVRG151"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECE 2100",
+    "day": "Thu",
+    "date": "Feb 20",
+    "rooms": [
+      "HLSB14"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECE 2300",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "TNG203",
+      "TNG205"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECE 2400",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "BKL119",
+      "BKL135"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECE 2720",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "IVS305"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECE 3100",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "PHL101",
+      "PHL219"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECE 3140",
+    "day": "Tue",
+    "date": "Mar 11",
+    "rooms": [
+      "OLH155",
+      "OLH255"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECE 3150",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "PHL101"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECE 3200",
+    "day": "Tue",
+    "date": "Mar 25",
+    "rooms": [
+      "PHL101"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECE 4070",
+    "day": "Tue",
+    "date": "Mar 11",
+    "rooms": [
+      "PHL219"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECE 4590",
+    "day": "Tue",
+    "date": "Mar 25",
+    "rooms": [
+      "OLH165"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECE 4670",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "PHL219"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECE 4740",
+    "day": "Thu",
+    "date": "Mar 20",
+    "rooms": [
+      "PHL101"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECE 4840",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "PHL203"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECE 5200",
+    "day": "Tue",
+    "date": "Mar 25",
+    "rooms": [
+      "PHL101"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECE 5350",
+    "day": "Tue",
+    "date": "Mar 11",
+    "rooms": [
+      "PHL219"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECE 5670",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "PHL219"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECE 5744",
+    "day": "Thu",
+    "date": "Mar 20",
+    "rooms": [
+      "PHL101"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECE 5840",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "PHL203"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECE 6745",
+    "day": "Thu",
+    "date": "Mar 27",
+    "rooms": [
+      "PHL219"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECON 1110",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "STL185",
+      "URHG01"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECON 1120 001",
+    "day": "Tue",
+    "date": "Feb 25",
+    "rooms": [
+      "IVS305",
+      "URHG01"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECON 1120 002",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "KND116",
+      "MLT228"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECON 2300",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "WRN151",
+      "WRNB25"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECON 3110",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "IVS305"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ECON 3120",
+    "day": "Tue",
+    "date": "Feb 25",
+    "rooms": [
+      "MLT228",
+      "MLT251",
+      "MLT253"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ENGRD 2020",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "KMBB11"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ENGRD 2100",
+    "day": "Thu",
+    "date": "Feb 20",
+    "rooms": [
+      "HLSB14"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ENGRD 2110",
+    "day": "Tue",
+    "date": "Mar 11",
+    "rooms": [
+      "BKL200",
+      "BKL219",
+      "RCK201",
+      "RCK203"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ENGRD 2140",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "BKL119",
+      "BKL135"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ENGRD 2300",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "TNG203",
+      "TNG205"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ENGRD 2620",
+    "day": "Thu",
+    "date": "Feb 20",
+    "rooms": [
+      "PHL219"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ENGRD 2700",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "KMBB11",
+      "TNG203",
+      "TNG205"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ENGRD 2720",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "IVS305"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ENGRD 3200",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "OLH255"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ENGRI 1101",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "IVS305"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ENGRI 1130",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "PHL101"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ENMGT 5900",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "HLS110",
+      "HLSB14"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ENVS 1201",
+    "day": "Tue",
+    "date": "Mar 11",
+    "rooms": [
+      "FRNG24"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "GDEV 2201",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "KND116"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "HADM 1210",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "GSH132"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "HADM 1361",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "STL265",
+      "STL396"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "HADM 1410",
+    "day": "Tue",
+    "date": "Feb 25",
+    "rooms": [
+      "STL185"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "HADM 1740",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "STL365 BIN"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "HADM 2210",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "GSHG76"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "HADM 2560",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "STL396",
+      "STL398"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "HADM 2740",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "STL365 BIN"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "HADM 3610",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "STL165"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "HADM 4130",
+    "day": "Thu",
+    "date": "Apr 17",
+    "rooms": [
+      "STL365 BIN"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "HADM 4300",
+    "day": "Tue",
+    "date": "Mar 11",
+    "rooms": [
+      "STL185",
+      "STL196",
+      "STL265",
+      "URHG01"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "HADM 4375",
+    "day": "Thu",
+    "date": "Mar 20",
+    "rooms": [
+      "STL265"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "HADM 6130",
+    "day": "Thu",
+    "date": "Apr 17",
+    "rooms": [
+      "STL365 BIN"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "HADM 6375",
+    "day": "Thu",
+    "date": "Mar 20",
+    "rooms": [
+      "STL265"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "HADM 6610",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "STL165"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "HADM 7510",
+    "day": "Tue",
+    "date": "Apr 8",
+    "rooms": [
+      "STL185"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "HIST 1690",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "URHG01"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ILRGL 5010",
+    "day": "Tue",
+    "date": "Mar 11",
+    "rooms": [
+      "IVS105"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ILRID 1535",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "BKL200",
+      "BKL219",
+      "BKL335"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ILRST 2100",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "STL185",
+      "URHG01"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ILRST 2110",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "MRS146"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ILRST 3110",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "IVS305"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ILRST 5110",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "MRS146"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "INFO 2951",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "IVS105",
+      "IVS305"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "LATIN 1201",
+    "day": "Thu",
+    "date": "Mar 06",
+    "rooms": [
+      "GSH142"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "LATIN 1202",
+    "day": "Tue",
+    "date": "Mar 04",
+    "rooms": [
+      "GSH142"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "LATIN 5211",
+    "day": "Thu",
+    "date": "Mar 06",
+    "rooms": [
+      "GSH142"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "LATIN 5212",
+    "day": "Tue",
+    "date": "Mar 04",
+    "rooms": [
+      "GSH142"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "LING 4474",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "OLH155",
+      "OLH165"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MAE 2020",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "KMBB11"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MAE 2030",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "HLS110",
+      "HLSB14"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MAE 3130",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "TNG205"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MAE 3240",
+    "day": "Tue",
+    "date": "Mar 11",
+    "rooms": [
+      "HLSB14",
+      "KMBB11"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MAE 3780",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "HLSB14",
+      "KMBB11"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MAE 3783",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "HLSB14",
+      "KMBB11"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MAE 4070",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "GTSG01"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MAE 4510",
+    "day": "Thu",
+    "date": "Feb 20",
+    "rooms": [
+      "KMBB11"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MAE 4530",
+    "day": "Thu",
+    "date": "Mar 20",
+    "rooms": [
+      "RRB105"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MAE 4590",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "PHL203"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MAE 4780",
+    "day": "Tue",
+    "date": "Mar 13",
+    "rooms": [
+      "UPS142"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MAE 4860",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "KMBB11"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MAE 4861",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "KMBB11"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MAE 5070",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "GTSG01"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MAE 5510",
+    "day": "Thu",
+    "date": "Feb 20",
+    "rooms": [
+      "KMBB11"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MAE 5530",
+    "day": "Thu",
+    "date": "Mar 20",
+    "rooms": [
+      "RRB105"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MAE 5780",
+    "day": "Tue",
+    "date": "Mar 13",
+    "rooms": [
+      "UPS142"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MAE 5860",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "KMBB11"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MATH 1106",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "GSH132",
+      "GSHG76",
+      "KLRKG70"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MATH 1110",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "IVS105",
+      "IVS217",
+      "IVS305"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MATH 1120",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "MLT251",
+      "MLT253",
+      "MLT406"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MATH 1910",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "GSHG64"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MATH 1920",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "STL185",
+      "STL196",
+      "URHG01"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MATH 2210",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "KLRKG70"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MATH 2220",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "OLH255"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MATH 2310",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "RCK203"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MATH 2930",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "HLSB14",
+      "KMBB11",
+      "OLH155",
+      "OLH255",
+      "PHL101"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MATH 2940",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "BKL200",
+      "OLH155",
+      "RCK201",
+      "RCK203"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MATH 3110",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "MLT228"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MATH 3360",
+    "day": "Tue",
+    "date": "Feb 25",
+    "rooms": [
+      "PHL101"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MATH 4310",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "MLT253"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MSE 2060",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "TNG205"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MSE 2620",
+    "day": "Thu",
+    "date": "Feb 20",
+    "rooms": [
+      "PHL219"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MSE 3040",
+    "day": "Thu",
+    "date": "Feb 20",
+    "rooms": [
+      "OLH165"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MSE 5240",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "TNG203"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MSE 5340",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "HLS314"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MSE 5430",
+    "day": "Tue",
+    "date": "Mar 25",
+    "rooms": [
+      "OLH165"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MSE 5802",
+    "day": "Tue",
+    "date": "Mar 11",
+    "rooms": [
+      "BRD140"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MSE 5840",
+    "day": "Thu",
+    "date": "Feb 20",
+    "rooms": [
+      "OLH165"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MSE 6030",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "UPS206"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "MSE 6050",
+    "day": "Tue",
+    "date": "Mar 11",
+    "rooms": [
+      "PHL219"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "NACCT 5521",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "WRN151"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "NTRES 1201",
+    "day": "Tue",
+    "date": "Mar 11",
+    "rooms": [
+      "FRNG24"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "NTRES 2201",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "KND116"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ORIE 3120",
+    "day": "Thu",
+    "date": "Feb 20",
+    "rooms": [
+      "URHG01"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ORIE 3310",
+    "day": "Tue",
+    "date": "Feb 25",
+    "rooms": [
+      "HLS110",
+      "HLSB14"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ORIE 3510",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "OLH155"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ORIE 4600",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "GTSG01"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ORIE 5310",
+    "day": "Tue",
+    "date": "Feb 25",
+    "rooms": [
+      "HLS110",
+      "HLSB14"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "ORIE 5510",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "OLH155"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "PHIL 2310",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "GSHG64"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "PHYS 1112",
+    "day": "Tue",
+    "date": "Feb 25",
+    "rooms": [
+      "BKL200",
+      "RCK201",
+      "RCK203",
+      "RCK230"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "PHYS 1116",
+    "day": "Thu",
+    "date": "Feb 13",
+    "rooms": [
+      "RCK230"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "PHYS 2208",
+    "day": "Tue",
+    "date": "Feb 25",
+    "rooms": [
+      "BKL135",
+      "BKL157",
+      "KND116"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "PHYS 2213",
+    "day": "Tue",
+    "date": "Feb 25",
+    "rooms": [
+      "GSH132",
+      "GSHG76"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "PHYS 2214",
+    "day": "Tue",
+    "date": "Feb 25",
+    "rooms": [
+      "GSHG64",
+      "KLRKG70"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "PHYS 2217",
+    "day": "Thu",
+    "date": "Mar 20",
+    "rooms": [
+      "RCK230",
+      "RCK231"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "PHYS 2218",
+    "day": "Tue",
+    "date": "Feb 25",
+    "rooms": [
+      "RCK231"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "PHYS 4443",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "RCK230"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "PHYS 4688",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "RCK231"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "PHYS 7688",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "RCK231"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "PUBPOL 2030",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "MVRG151",
+      "MVRG155"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "SOC 2030",
+    "day": "Tue",
+    "date": "Mar 18",
+    "rooms": [
+      "MVRG151",
+      "MVRG155"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "STSCI 2100",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "STL185",
+      "URHG01"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "STSCI 2110",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "MRS146"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "STSCI 2150",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "MRS146",
+      "RRB125"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "STSCI 3110",
+    "day": "Thu",
+    "date": "Mar 13",
+    "rooms": [
+      "IVS305"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "STSCI 3200",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "RCK201"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "STSCI 3510",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "OLH155"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "STSCI 4090",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "MLT251"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "STSCI 5090",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "MLT251"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "STSCI 5110",
+    "day": "Thu",
+    "date": "Mar 6",
+    "rooms": [
+      "MRS146"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "STSCI 5150",
+    "day": "Tue",
+    "date": "Mar 4",
+    "rooms": [
+      "MRS146",
+      "RRB125"
+    ],
+    "time": ""
+  },
+  {
+    "acronym": "STSCI 5201",
+    "day": "Thu",
+    "date": "Feb 27",
+    "rooms": [
+      "RCK201"
+    ],
+    "time": ""
+  }
+]
