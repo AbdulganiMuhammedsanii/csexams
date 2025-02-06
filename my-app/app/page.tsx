@@ -18,10 +18,11 @@ import RemoveIcon from "@mui/icons-material/Remove";
 // Import your courses list from courses.json
 import coursesData from "./courses.json";
 
-// Update the Course interface to match the data from courses.json.
+// Update the Course interface to mark 'name' as optional.
+// Ensure your courses.json provides values for 'acronym', 'day', 'date', 'rooms', and 'time'
 interface Course {
   acronym: string;
-  name: string;
+  name?: string; // now optional
   day: string;
   date: string;
   rooms: string[];
@@ -236,15 +237,15 @@ const LandingPage: React.FC = () => {
                       display: "flex",
                       alignItems: "center",
                       backgroundColor: conflict ? "#FFF9C4" : "inherit",
-                      // Force text to black if there's a conflict, else depend on the theme.
-                      color: conflict ? "#000" : (mode === "dark" ? "#fff" : "#000"),
+                      // Force text to black if there's a conflict
+                      color: conflict ? "#000" : mode === "dark" ? "#fff" : "#000",
                       transition: "background-color 0.3s ease",
                     }}
                   >
                     <Grid container spacing={2} alignItems="center">
                       <Grid item xs={12} sm={8}>
                         <Typography variant="h6">
-                          {course.acronym}: {course.name}
+                          {course.acronym}: {course.name || ""}
                         </Typography>
                         <Typography variant="body2">
                           Prelim 1: {course.date} &nbsp;&nbsp; Location:{" "}
