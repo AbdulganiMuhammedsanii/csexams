@@ -33,7 +33,7 @@ interface SelectedCourse extends Course {
 
 const LandingPage: React.FC = () => {
   // Dark mode state; default is "light"
-  const [mode, setMode] = useState<"light" | "dark">("dark");
+  const [mode, setMode] = useState<"light" | "dark">("light");
 
   // Create a custom theme. In light mode, primary text is red.
   const customTheme = createTheme({
