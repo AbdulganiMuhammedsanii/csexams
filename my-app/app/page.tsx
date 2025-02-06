@@ -18,10 +18,13 @@ import RemoveIcon from "@mui/icons-material/Remove";
 // Import your courses list from courses.json
 import coursesData from "./courses.json";
 
+// Update the Course interface to match the data from courses.json.
 interface Course {
   acronym: string;
   name: string;
+  day: string;
   date: string;
+  rooms: string[];
   time: string;
 }
 
@@ -68,7 +71,6 @@ const LandingPage: React.FC = () => {
   // Add a course from the autocomplete list.
   const addCourse = (afterIndex?: number) => {
     if (!selectedCourse) return;
-
     const newCourse: SelectedCourse = { ...selectedCourse, instanceId: nextInstanceId };
     setNextInstanceId((prev) => prev + 1);
 
@@ -108,7 +110,7 @@ const LandingPage: React.FC = () => {
         <Box
           id="landing"
           sx={{
-            position: "relative", // For absolute positioning of dark mode toggle
+            position: "relative", // For absolute positioning of the dark mode toggle
             minHeight: { xs: "95vh", md: "95vh" },
             overflow: "auto",
             backgroundColor: customTheme.palette.background.default,
@@ -147,10 +149,10 @@ const LandingPage: React.FC = () => {
                     marginBottom: 4,
                   }}
                 >
-                  Cornell exam schedule and {" "}
+                  Cornell exam schedule and{" "}
                   <strong style={{ color: customTheme.palette.text.primary }}>
                     conflicts.
-                  </strong>{" "}
+                  </strong>
                 </Typography>
               </Grid>
               <Grid
@@ -234,7 +236,8 @@ const LandingPage: React.FC = () => {
                       display: "flex",
                       alignItems: "center",
                       backgroundColor: conflict ? "#FFF9C4" : "inherit",
-                      color: mode === "dark" ? (conflict ? "#000" : "#fff") : "#000",
+                      // Force text to black if there's a conflict, else depend on the theme.
+                      color: conflict ? "#000" : (mode === "dark" ? "#fff" : "#000"),
                       transition: "background-color 0.3s ease",
                     }}
                   >
